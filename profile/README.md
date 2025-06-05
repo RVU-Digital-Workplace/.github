@@ -4,7 +4,7 @@
 
 Welcome to the official GitHub organization for **Digital Workplace**!
 
-We are an **internal IT team** dedicated to **Empowering our users by delivering, supporting, and innovating with high-quality technology solutions for enhanced productivity and effective work**.
+We are an **internal IT team** dedicated to **empowering our users by delivering, supporting, and innovating with high-quality technology solutions for enhanced productivity and effective work**.
 
 This repository hosts our internal tools, automation scripts, infrastructure configurations, and more.
 
@@ -34,5 +34,3 @@ New to Digital Workplace, looking to get more involved, or have a question? Here
 * **Team Communication (Slack):** For internal team questions, discussions, and quick updates, feel free to raise them in `[#digital-workplace]` or you can also raise an issue using `Issues`.
     * For members outside of **Digital Workplace**, to raise project-specific questions or bug reports, please use the `Issues` tab in the respective repository.
 * **Primary Team Hub (Notion):** For detailed documentation, team processes, project roadmaps, and more [here](https://www.notion.so/rvu/Welcome-9cde65b3f7f44de79635dee5d2922c66).
-
----
